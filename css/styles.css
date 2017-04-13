@@ -134,6 +134,14 @@ a:visited {
   height: 400px;
 }
 
+#randall-robinson-cover {
+  background-image: url("http://imgur.com/LeXOIGk.jpg");
+}
+
+#randall-robinson-card {
+  background-image: url("http://imgur.com/QVVlNJ7.jpg");
+}
+
 #krystle-barnes-cover {
     background-image: url("http://i.imgur.com/DdV0Ekg.jpg");
 }
